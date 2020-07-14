@@ -1,0 +1,51 @@
+{
+	"description" : "Web wallpaper with solar system background",
+	"file" : "index.html",
+	"general" :
+	{
+		"properties" :
+		{
+			"schemecolor" :
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"stars1" :
+      {
+        "text" : "Stars 1",
+        "type" : "slider",
+        "value" : 250,
+        "min" : 0,
+        "max" : 1000,
+        "editable" : true
+      },
+			"stars2" :
+      {
+        "text" : "Stars 2",
+        "type" : "slider",
+        "value" : 500,
+        "min" : 0,
+        "max" : 2000,
+        "editable" : true
+      },
+			"stars3" :
+      {
+        "text" : "Stars 3",
+        "type" : "slider",
+        "value" : 750,
+        "min" : 0,
+        "max" : 3000,
+        "editable" : true
+      }
+		}
+	},
+	"monetization" : false,
+	"preview" : "preview.jpg",
+	"tags" : [ "Abstract" ],
+	"title" : "Solar System",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 793602574
+}
